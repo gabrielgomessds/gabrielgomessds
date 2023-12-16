@@ -21,6 +21,8 @@
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="html5" align="center">
 
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="html5" align="center">
+
 </div><br>
 
 <i>Sempre buscando soluções para os mais diversos problemas usando a programação e a criatividade</i>
