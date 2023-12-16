@@ -1,4 +1,4 @@
-### Olá, meu nome é Gabriel Gomes e sou um desenvolvedor full stack web
+### Olá, meu nome é Gabriel Gomes e sou um desenvolvedor Full Stack Web
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gomes-da-silva-ba66641ba/)
